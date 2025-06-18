@@ -1,0 +1,8 @@
+Flow Duration,Total Fwd Packets,Total Backward Packets,Fwd Packet Length Mean,Bwd Packet Length Mean,Flow Bytes/s,Flow IAT Mean,Label
+123456,12,8,100.5,80.2,1000.5,300.1,BENIGN
+223456,18,6,120.1,90.3,1532.1,350.5,BENIGN
+112345,3,2,40.2,35.1,210.3,250.6,DoS Hulk
+312456,34,12,130.3,100.4,3002.2,400.9,BENIGN
+134567,6,6,60.4,55.6,900.7,275.2,PortScan
+452300,25,18,110.2,95.5,2200.3,330.0,BENIGN
+
