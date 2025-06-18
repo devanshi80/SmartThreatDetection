@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model files or large binaries
+*.pkl
+*.h5
+*.joblib
+
+# Virtual environment
+venv/
+env/
+ENV/
+*.env
+
+# VS Code and IDE settings
+.vscode/
+.idea/
+
+# macOS/Linux hidden files
+.DS_Store
+
+# Dataset files (you won't be uploading full data to GitHub)
+*.csv
+*.zip
+*.tar.gz
